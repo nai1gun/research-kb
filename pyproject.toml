@@ -1,0 +1,9 @@
+[project]
+name = "research-kb"
+version = "0.1.0"
+description = "Personal research knowledge base"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = []

@@ -1,0 +1,44 @@
+topics:
+  - name: autonomous-driving
+    description: "End-to-end autonomous driving systems, vision-language-action models, perception, planning"
+    keywords:
+      - "autonomous driving"
+      - "self-driving"
+      - "end-to-end driving"
+      - "vision language action"
+      - "VLA driving"
+      - "autonomous vehicle perception"
+      - "motion planning"
+      - "trajectory prediction"
+      - "world model driving"
+    arxiv_categories:
+      - cs.RO  # Robotics
+      - cs.CV  # Computer Vision
+      - cs.AI  # Artificial Intelligence
+      - cs.LG  # Machine Learning
+    semantic_scholar_fields:
+      - Computer Science
+
+  - name: hmi
+    description: "Human-machine interaction in autonomous vehicles, trust, takeover, user experience"
+    keywords:
+      - "human machine interaction autonomous"
+      - "driver takeover"
+      - "trust in automation"
+      - "autonomous vehicle HMI"
+      - "human factors autonomous driving"
+      - "driver monitoring"
+      - "handover autonomous"
+      - "situation awareness driving"
+    arxiv_categories:
+      - cs.HC  # Human-Computer Interaction
+      - cs.RO  # Robotics
+    semantic_scholar_fields:
+      - Computer Science
+      - Psychology
+
+# Discovery settings
+settings:
+  max_results_per_source: 20
+  days_lookback: 7  # For weekly discovery
+  pdf_max_size_mb: 25

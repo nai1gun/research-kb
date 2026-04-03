@@ -1,0 +1,22 @@
+# RSS feeds for blogs and publications
+# Add feeds here as you discover relevant sources
+
+feeds:
+  # Medium publications (examples - customize these)
+  - name: "Towards Data Science - Self Driving"
+    url: "https://medium.com/feed/towards-data-science/tagged/self-driving-cars"
+    topic: autonomous-driving
+
+  - name: "Towards Data Science - Autonomous Vehicles"
+    url: "https://medium.com/feed/towards-data-science/tagged/autonomous-vehicles"
+    topic: autonomous-driving
+
+  # Company/research blogs (examples)
+  - name: "Waymo Blog"
+    url: "https://blog.waymo.com/feeds/posts/default"
+    topic: autonomous-driving
+
+  # Add more feeds as you find them:
+  # - name: "Blog Name"
+  #   url: "https://example.com/feed.xml"
+  #   topic: autonomous-driving  # or hmi
